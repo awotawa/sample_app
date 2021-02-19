@@ -4,7 +4,8 @@ This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
-by [Michael Hartl](https://www.michaelhartl.com/).
+by [Alexandre Wotawa](https://awotawa.github.io/profile/) following [Michael Hartl](https://www.michaelhartl.com/) instructions.
+This application is a Twitter like app that you can find at [https://infinite-savannah-91582.herokuapp.com/](https://infinite-savannah-91582.herokuapp.com/)
 
 ## License
 
